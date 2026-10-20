@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1, "id": "lb6eh.cw-quest", "name": "CW Quest", "version": "1.0.0",
+  "author": "lb6eh", "license": "MIT",
+  "description": "Short Morse listening quests with freely selectable Koch lessons, XP, medals and adjustable audio.",
+  "kinds": ["bar-widget"], "entryPoints": {"barWidget": "BarWidget.qml"},
+  "barWidget": {"displayName": "CW Quest", "category": "Games", "allowMultiple": false, "defaultSection": "right"}
+}

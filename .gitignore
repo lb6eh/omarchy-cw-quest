@@ -1,0 +1,13 @@
+node_modules/
+*.log
+*.pcm
+
+# Local credentials, agent configuration and personal runtime state
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+/profile.json
+/state/

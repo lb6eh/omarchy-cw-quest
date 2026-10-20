@@ -1,0 +1,5 @@
+{
+  "name": "omarchy-cw-quest", "version": "1.0.0", "private": true,
+  "scripts": {"test": "node --test", "check": "node --check Trainer.js && node --check helpers/audio.cjs && node --check helpers/state.cjs"},
+  "engines": {"node": ">=22"}
+}
