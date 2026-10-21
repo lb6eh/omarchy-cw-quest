@@ -34,7 +34,7 @@ Captured from the running Omarchy plugin. Colors follow your active theme.
 
 | Listening statistics | Audio setup |
 | --- | --- |
-| ![Progress statistics showing accuracy, playbacks, and listening time](assets/screenshots/statistics.png) | ![Audio setup with character speed, tone frequency, and volume controls](assets/screenshots/setup.png) |
+| ![Progress statistics showing accuracy, playbacks, and listening time](assets/screenshots/statistics.png) | ![Audio setup with character speed, tone frequency, and volume controls](assets/screenshots/audio-settings.png) |
 
 ## Play
 
